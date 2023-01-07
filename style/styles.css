@@ -14,7 +14,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     align-items: center;
-   padding-right: 230px;
+    padding-right: 230px;
     text-align: end;
     justify-content: end;
     margin-bottom: 130px;
@@ -27,7 +27,6 @@
            width: 525px; 
            height: 228px; 
            color: aliceblue; 
-           
            font-size: 65px;
            margin-top: 216px;
            margin-left: 845;
@@ -43,7 +42,6 @@
 .contact{
        font-size: 20px;
        font-weight: 300px;
-       
        color: rgba(41, 134, 221, 0.678);
        background-color: aliceblue;
        padding: 25px 30px;
@@ -51,4 +49,38 @@
        border: none;
 }
 
- 
+/* failures of previou style */
+
+.failures-of-previous{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 65px;
+    margin-bottom: 130px;
+    gap: 90px;
+
+}
+
+.failures-list{
+
+}
+.failures-title{
+    font-weight: 700;
+    color: #141414;
+    font-size: 50px;
+    margin-bottom: 25px;
+
+}
+
+.failures-description{
+    color: #444343;
+    font-size: 15px;
+    margin-bottom: 10px;
+    line-height: 25px;
+    
+}
+
+
+.check, i{
+     color: rgb(16, 175, 96);
+}
