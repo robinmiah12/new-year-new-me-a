@@ -1,0 +1,54 @@
+*{
+   margin: 0%;  
+                 
+}
+.main{
+
+}
+
+/* header style */
+.header{
+    height: 808px; 
+    display: flex;
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+   padding-right: 230px;
+    text-align: end;
+    justify-content: end;
+    margin-bottom: 130px;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+
+}
+.header-title{
+           width: 525px; 
+           height: 228px; 
+           color: aliceblue; 
+           
+           font-size: 65px;
+           margin-top: 216px;
+           margin-left: 845;
+
+}
+
+.header-description{
+                        font-size: 15px;
+                        color:whitesmoke;
+                        margin: 24 0 25px ;
+                        line-height: 30px;
+}
+.contact{
+       font-size: 20px;
+       font-weight: 300px;
+       
+       color: rgba(41, 134, 221, 0.678);
+       background-color: aliceblue;
+       padding: 25px 30px;
+       border-radius: 5px;
+       border: none;
+}
+
+ 
