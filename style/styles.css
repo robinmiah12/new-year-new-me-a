@@ -81,6 +81,39 @@
 }
 
 
-.check, i{
+ .checki{
      color: rgb(16, 175, 96);
+ }
+/* plan Style */
+.plan-title {
+    font-size: 40px;
+    color: #151414;
+    font-weight: 700;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.plans {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 130px;
+
+}
+
+.plan {
+    text-align: center;
+}
+
+.plan h3 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin: 24px 16px;
+}
+
+.plan  {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+
 }
